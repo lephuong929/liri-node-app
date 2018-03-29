@@ -1,0 +1,11 @@
+{
+  "Artist": "\"Offset\"",
+  "Track": "\"Ric Flair Drip (& Metro Boomin)\"",
+  "Album": "\"Without Warning\"",
+  "MP3": "\"https://p.scdn.co/mp3-preview/65db0cfbd7235bcc2cafe698c656853f845a9133?cid=78cfc2033dba4a49bd23d334f9f22c2c\""
+}{
+  "Artist": "\"Jesse McCartney\"",
+  "Track": "\"Better with You\"",
+  "Album": "\"Better with You\"",
+  "MP3": "\"https://p.scdn.co/mp3-preview/c494c98708c39e46cf18fc457dd4920686e01a36?cid=78cfc2033dba4a49bd23d334f9f22c2c\""
+}
